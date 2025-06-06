@@ -1,5 +1,5 @@
 # Week 10
-May 7, 2025
+May 21, 2025
 ## Objectives
 * Finalize and validate all API endpoints between backend and frontend
 * Test end-to-end data flow: frontend ↔ backend ↔ firmware (Raspberry Pi Pico)
